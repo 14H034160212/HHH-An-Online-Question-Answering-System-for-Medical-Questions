@@ -1,1 +1,27 @@
+# This is an <h1> tag
+This research was supported by summer scholarship funding from the Precision Driven Health research partnership.
+
+Knowledge graph establishment refer the following link
+https://github.com/liuhuanyong/QASystemOnMedicalKG
+
+BERT
 https://github.com/google-research/bert
+
+BiLSTM+Attention
+https://zhuanlan.zhihu.com/p/31638132
+https://github.com/likejazz/Siamese-LSTM
+https://github.com/LuJunru/Sentences_Pair_Similarity_Calculation_Siamese_LSTM
+
+AttentionLayer is referred from the following link
+https://github.com/uhauha2929/examples/blob/master/Hierarchical%20Attention%20Networks%20.ipynb
+
+Dataset
+Medical knowledge dataset collected from the following medical website
+https://www.medicinenet.com/medterms-medical-dictionary/article.htm
+https://www.nhsinform.scot/illnesses-and-conditions/a-to-z
+
+Model train_dev_test dataset are filter out from Quora question pair dataset.
+https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
+
+Medical question and answer pair dataset is referred from the following link.
+https://github.com/LasseRegin/medical-question-answer-data
