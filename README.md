@@ -35,6 +35,7 @@ https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 ### Medical question and answer pair dataset is referred from the following link.
 https://github.com/LasseRegin/medical-question-answer-data
 
+### Model eval-accuracy comparison 
 |Model|Average Eval_accuracy by three times|Range of change|
 |:---|:---|:---|
 |BERT baseline model|0.7686|(-0.0073, +0.0057)|
