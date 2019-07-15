@@ -8,7 +8,7 @@ The number distribution of Train: test = 8:2
 
 with dropout and Epoch: 9
 
-Average eval_accuracy: 0.80433333333
+Average eval_accuracy by three times experiments: 0.80433333333
 
 Range of change: (-0.01033333333, +0.00616666667)
 
