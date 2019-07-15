@@ -12,7 +12,7 @@ Second experiment result eval_accuracy: 0.7612613
 
 Third experiment result eval_accuracy: 0.7742743
 
-Average eval_accuracy: 0.76860196666
+Average eval_accuracy by three times experiments: 0.76860196666
 
 Range of change: (-0.00734066666, +0.00567233334)
 
