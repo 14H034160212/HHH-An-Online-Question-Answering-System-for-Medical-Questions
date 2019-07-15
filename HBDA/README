@@ -1,4 +1,9 @@
-This is the hiererachical BiLSTM Word Attention Model. The main innovation is to use the Siamese_LSTM + word attention + Manhattan distance compare to the normal Siamese_LSTM + normal attention + Manhattan distance.
+This is the hiererachical BiLSTM Word Attention Model. 
+The main innovation is to use the Siamese_LSTM + word attention + Manhattan distance 
+compare to the normal Siamese_LSTM + normal attention + Manhattan distance.
+
+The main reason that we need to model is to retrieve the top k answer from the medical question answer pair dataset
+according to the medical semantic similarity model (HBDA).
 
 The AttentionLayer is referred from the following link.
 https://github.com/uhauha2929/examples/blob/master/Hierarchical%20Attention%20Networks%20.ipynb
