@@ -36,8 +36,8 @@ https://github.com/LasseRegin/medical-question-answer-data
 |HDBA model|**0.8146**|(-0.0082, +0.0098)|
 |Bi-LSTM + Attention model|0.8043|(-0.0103, +0.0062)|
 
+### The scale of knowledge graph about 700 diseases. For each disease, there exists symptom, accompany_disease, prevent_way, cure_way and totally 6 entities.
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/Figure_3.png" width="800" />
-![](https://github.com/14H034160212/HBDA-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Medical_knowledge_graph_establishment/System_screenshot/Figure_3.png)
 
 <img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="描述语言，写什么都不会显示出来"/>
 
