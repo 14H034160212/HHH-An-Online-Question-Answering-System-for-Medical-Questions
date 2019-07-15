@@ -39,6 +39,5 @@ https://github.com/LasseRegin/medical-question-answer-data
 ### The scale of knowledge graph about 700 diseases. For each disease, there exists symptom, accompany_disease, prevent_way, cure_way and totally 6 entities.
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/Figure_3.png" width="800" />
 
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="描述语言，写什么都不会显示出来"/>
-
-<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
+### System architecture
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/system_architecture.png" width="800" />
