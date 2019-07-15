@@ -129,7 +129,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 39949	72357	72358	How can I get a good sleep?	What is the best way to get a good night's sleep?	1
 39949	72357	72358	How can I get a good sleep?	What is the best way to get a good night's sleep?	1
 40096	72595	72596	Is life all about a career?	What is life?	0
-40106	72609	72610	What are career prospects after PhD in Geophysics at ETH Z®πrich?	What are the career prospects after a PhD in political science in USA?	0
+40106	72609	72610	What are career prospects after PhD in Geophysics at ETH Z√ºrich?	What are the career prospects after a PhD in political science in USA?	0
 40304	72940	72941	Which is better as a career: physiotherapy or pharmacy?	Which is better, pharmacy or degree?	0
 40762	73704	13903	How can I stop being scared of rejection?	How can I stop getting scared?	0
 40908	73950	73951	What is a difference between death & sleep?	What is difference between sleep and death?	1
@@ -196,8 +196,8 @@ id	qid1	qid2	question1	question2	is_duplicate
 49929	88796	66811	What's life like after leaving a company like Google mid-career? How does it feel to not have golden handcuffs? Do you regret it?	What are your regrets in life?	0
 50009	18818	25715	What should I do to avoid sleeping in class?	How do I not sleep in a boring class?	1
 50009	18818	25715	What should I do to avoid sleeping in class?	How do I not sleep in a boring class?	1
-50231	89272	89273	Why don't birds fall down while sleeping in trees?	Why don°Øt birds fall down when they sleep in the tree?	1
-50231	89272	89273	Why don't birds fall down while sleeping in trees?	Why don°Øt birds fall down when they sleep in the tree?	1
+50231	89272	89273	Why don't birds fall down while sleeping in trees?	Why don‚Äôt birds fall down when they sleep in the tree?	1
+50231	89272	89273	Why don't birds fall down while sleeping in trees?	Why don‚Äôt birds fall down when they sleep in the tree?	1
 50986	90498	90499	If I couldn't care less about race, how can I ignore it if people keep acting racist?	How can I tell if someone cares about me? How does it feel to have someone love me?	0
 51250	90935	90936	Was Donald Trump scared of Megyn Kelly?	Why does Donald Trump dislike Megyn Kelly?	0
 51381	91141	91142	Why do people pretend so hard not to care?	What's the best way to deal with people who pretend to know things that they don't know about?	0
@@ -340,7 +340,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 69938	44623	21689	What causes sleep paralysis?	How do you cause sleep paralysis?	1
 70064	120823	120824	I am a 23-year-old MSc physics graduate from India. I am presently working in the proposals department of an engineering company. If I have to further my career in the technical side, what do I need to do?	Career Advice: I am a first year EEE student from a second or third tier private engineering college in UP. I want to work for companies like Google, Microsoft or Facebook. What should I do? Which exams should I give in the future? Which course should I p	0
 70333	121242	121243	How can I make sure, if something ever has to happen to me, my parents are taken care of?	How do I take care of my aging parents?	0
-70562	121581	121582	How is a Scorpio ascendant°Øs career affected by the following placement of planets?	Is it so that a dominant planet can affect one°Øs personal character?	0
+70562	121581	121582	How is a Scorpio ascendant‚Äôs career affected by the following placement of planets?	Is it so that a dominant planet can affect one‚Äôs personal character?	0
 70666	121738	121739	Do people on the "expert" career track at McKinsey, Bain, BCG make less money than traditional client-facing track? How much?	Do interviews at McKinsey Bain BCG differ for hires at Principal level and above? I.e., no case studies and more traditional interviewing?	0
 70768	121892	121893	How do I make career in data analytics?	How can I start my career in data analytics?	0
 70839	122011	122012	Why does the Philippines have poor healthcare?	Why is the Philippines poor?	0
@@ -362,17 +362,17 @@ id	qid1	qid2	question1	question2	is_duplicate
 74353	127440	127441	Is SAP BI/BW  a good option for career growth? Is there demand for this now in the industry?	Which one is easy to learn SAP BO or SAP BI ?  if i have mainframe experience 5+ years of experience	0
 74409	127520	127521	How can I study for longer hours without falling asleep?	How can study for longer hours at night without falling asleep?	1
 74409	127520	127521	How can I study for longer hours without falling asleep?	How can study for longer hours at night without falling asleep?	1
-74850	128202	128203	I'm pursuing BBA, What career options I have, after completing BBA?	Why do all my friends, who are girls, hide their °Ælast seen°Ø in WhatsApp?	0
+74850	128202	128203	I'm pursuing BBA, What career options I have, after completing BBA?	Why do all my friends, who are girls, hide their ‚Äòlast seen‚Äô in WhatsApp?	0
 74871	128233	115988	What is the typical career path for someone who becomes a professor in forensic psychology?	What is the typical career path for someone who becomes a professor in psychology?	0
 74936	59948	128335	How could degree programs in architecture prepare students better for careers?	How could degree programs in nutrition prepare students better for careers?	0
 74959	128361	128362	Why is India insecure and scared of Pakistan's economic development projects & trying hard to sabotage them?	Why does Pakistan try so hard to get Bangladesh"s support in cricket despite never supporting Bangladesh?	0
 75082	128555	128556	According to Islam, if Allah created the entire universe, why does He care if woman show their hair?	Why don't girls say anything to a boy if he plays with their hair?	0
-75256	128826	128827	My birth date is 22®C08-1993 , time 17:15, from Kalyani, West Bengal. How will be my love life, career and financial condition according to astrology?	Bread watermelon?	0
+75256	128826	128827	My birth date is 22‚Äì08-1993 , time 17:15, from Kalyani, West Bengal. How will be my love life, career and financial condition according to astrology?	Bread watermelon?	0
 75540	129267	129268	What impact will wearable technology have on the healthcare sector?	Wanna know about a Hollywood movie in which Ghost awake because they start shooting an abandoned movie n to kill that ghost they burn that movie reel?	0
 75736	129563	87822	How do I evaluate my career?	How can I evaluate A?	0
 75906	129829	129830	I'm 17, and a junior. I feel down in the dumps, I feel like nobody cares, I'm not myself, and I have lost interest in things. Why do I feel like this?	How can I keep secrets of my friends, I try but I fail and hence ruined many relationship due to this?	0
 76012	129995	129996	Is selling on amazon a great career start for a 20 year old who wants to become a multi millionaire?	What are the benefits of doing MBA/PGDM from IIMs?	0
-76352	65554	130533	I°Øm new to design and changing careers. Do I need to learn UX before I learn UI?	I want to be a UI/UX designer. I'm good at Photoshop & Bootstrap. What more do you suggest I should learn? Angular.js or something else?	0
+76352	65554	130533	I‚Äôm new to design and changing careers. Do I need to learn UX before I learn UI?	I want to be a UI/UX designer. I'm good at Photoshop & Bootstrap. What more do you suggest I should learn? Angular.js or something else?	0
 76372	130564	130565	Why do dogs bark in their sleep?	Why do dogs bark and growl in their sleep?	1
 76372	130564	130565	Why do dogs bark in their sleep?	Why do dogs bark and growl in their sleep?	1
 76654	131007	131008	What do you call someone who spends their money carefully?	What is it called when you are spending someone eles money?	0
@@ -487,7 +487,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 92233	154441	24291	How do I stop grinding my teeth?	How can I stop myself from grinding my teeth in my sleep?	1
 92825	155326	155327	What do you do when you can't sleep at night?	What should I do if I can't sleep at night?	1
 92825	155326	155327	What do you do when you can't sleep at night?	What should I do if I can't sleep at night?	1
-93073	155695	30245	How will all the millions of retired baby boomers survive when President Trump privatizes Medicare, terminating their healthcare?	How will millions of middle class seniors react if President Trump signs into law Paul Ryan°Øs plan to privatize Medicare?	0
+93073	155695	30245	How will all the millions of retired baby boomers survive when President Trump privatizes Medicare, terminating their healthcare?	How will millions of middle class seniors react if President Trump signs into law Paul Ryan‚Äôs plan to privatize Medicare?	0
 93121	132026	155764	If he says to me "I don't care what you do, just make sure I don't catch you and wear a condom" supposed to mean?	If you ask a friend how they are after ending his affair with a married woman and he says, "I don't want to talk about it" what does this mean?	0
 93160	155827	42036	How can I avoid sleepiness during lectures?	How do I avoid sleeping during the lectures?(a serious jee aspirant)	1
 93160	155827	42036	How can I avoid sleepiness during lectures?	How do I avoid sleeping during the lectures?(a serious jee aspirant)	1
@@ -506,7 +506,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 94121	157238	157239	What should I do so I wouldn't feel sleepy while I'm studying?	Why do I always feel sleepy when I'm doing school stuff?	1
 94237	134485	157418	What's the best sound that helps you fall asleep?	What is the best music to help you fall asleep?	1
 94237	134485	157418	What's the best sound that helps you fall asleep?	What is the best music to help you fall asleep?	1
-94298	157515	157516	I'm really scared about facing medical entrance exams . Can someone help me fight this fear?	What is the difference between diploma & puc °∞CET°± exams , do they have any difference in subjects & syllabus of "CET"	0
+94298	157515	157516	I'm really scared about facing medical entrance exams . Can someone help me fight this fear?	What is the difference between diploma & puc ‚ÄúCET‚Äù exams , do they have any difference in subjects & syllabus of "CET"	0
 94304	157524	13696	For what career options to go for after electronics engineering?	What are career options in construction domain after graduation in electrical engineering?	0
 94427	157702	157703	Why do guys wait days to text girls after a date? Do they really want to talk and hold back or do they not care so much and focus on work?	After a handful of dates, guy doesn't text much, waits till night to text and takes hours to respond. He does continue to ask me out. Is he into me?	0
 94499	157803	157804	How do you make people care about the world and each other?	Why do some people care so much about blocking gay marriage? Why do some people care so much about what other people do in their own private lives?	0
@@ -619,7 +619,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 108003	177547	177548	Which department is better for a career in the automobile industry as a mechanical engineer: production or quality?	Which field is better for a mechanical engineer, production, quality or design?	0
 108173	42688	177799	What are the most suitable career options for an INTJ personality type?	IS MBA/mgmt degree/career suitable for an INTJ personality type?	0
 108636	178455	178456	I am a high school student, I am scared about college and where I will go. How do I get out of my head that college is everything?	What can be the smallest & best one line quote for sister?	0
-108810	101869	178706	Which is better for BTech freshers, the AMCAT or Elitmus for ECE(2017®C18) students who wants to pursue career as a software developer?	Is it possible for a student who has a BE (BTech) in ECE to pursue an MS in computer architecture? In which university in the U.S.?	0
+108810	101869	178706	Which is better for BTech freshers, the AMCAT or Elitmus for ECE(2017‚Äì18) students who wants to pursue career as a software developer?	Is it possible for a student who has a BE (BTech) in ECE to pursue an MS in computer architecture? In which university in the U.S.?	0
 109175	179215	179216	What are the pros and cons of a vendor manager career vs an account manager career?	How is knowledge management as a career? What are the pros and cons of choosing KM as a career? Is it a viable career path and does it pay well?	0
 109548	179772	179773	How could degree programs in anthropology prepare students better for careers?	How could degree programs in accounting prepare students better for careers?	0
 110004	180447	180448	What are the Republicans' arguments against the ACA (Obamacare)?	Why do so many liberals still seem to think Obamacare is a success?	0
@@ -627,8 +627,8 @@ id	qid1	qid2	question1	question2	is_duplicate
 110191	29781	180722	What health effects does the lack of sleep have?	What are the health effects of extended sleep deprivation?	1
 110216	180764	180765	What careers can I get into with an MBA in Management Information System?	I have a dual-degree MBA with Masters in Management Information Systems. How can I diversify my career?	0
 110342	180929	180930	What was the most unconventional career path you have ever heard about?	Jessica Hische: Have you ever felt aimless or lost on your career path? What did you do?	0
-110628	181348	181349	What are some fun things a 12 year old can do at a sleepover?	What are some fun things to do at a 13 year old°Øs sleepover?	1
-110628	181348	181349	What are some fun things a 12 year old can do at a sleepover?	What are some fun things to do at a 13 year old°Øs sleepover?	1
+110628	181348	181349	What are some fun things a 12 year old can do at a sleepover?	What are some fun things to do at a 13 year old‚Äôs sleepover?	1
+110628	181348	181349	What are some fun things a 12 year old can do at a sleepover?	What are some fun things to do at a 13 year old‚Äôs sleepover?	1
 110803	181604	181605	Is it wise to take an offer from Bridgewater Associates as an investment associate if I want to have a long-term career in investing?	What is it like to be an investment associate at Bridgewater Associates?	0
 111026	22262	181943	What data science and machine learning career opportunities are there at Apple?	What data science and machine learning career opportunities are there at Microsoft?	0
 111194	182188	182189	How do we talk to customer care executive in Airtel and not the robot?	How do I directly contact a customer care executive of Airtel?	0
@@ -772,7 +772,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 129668	208243	65643	Which is the best career option after +2 with non medical stream?	Which option is better for a career, Android or iOS?	0
 129706	208304	208305	What should high school students know about  a computer science career?	What are some advantages for a high school that has more money? How does it affect students?	0
 129775	208402	208403	How scared should I be of a 5mm gallbladder polyp found during a routine ultrasound?	How scared should I be if my paulip on my gallblader is 4 mm?	0
-130052	208787	208788	What are the other healthcare compliance enforced other than HIPAA in Unites states of America?	A girl told me she's a virgin, but I found out she masturbates a lot. Why would a girl who°Øs a virgin masturbate so much?	0
+130052	208787	208788	What are the other healthcare compliance enforced other than HIPAA in Unites states of America?	A girl told me she's a virgin, but I found out she masturbates a lot. Why would a girl who‚Äôs a virgin masturbate so much?	0
 130762	209782	209783	Can I make a career out of investing in stocks?	How can I make a career out of investing in stocks?	0
 131069	49389	210230	What are different career options in commerce without maths in future?	What is the best career after 12 th without maths?	0
 131179	210382	210383	I am in my early 20's, done with my bachelor's and want to do have a passionate and thrilling career. What can I do to know the things that excite me and hence lead an awesome life?	In AC/DC's Shoot To Thrill, what is the meaning of the lyrics: I'm like evil I get under your skin just like a bomb that's ready to blow?	0
@@ -782,7 +782,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 131778	204154	211176	Why is it that when a man sleeps with lots of women he is called a stud, but if a woman sleeps with lots of men she is called a slut?	Why is a woman called a "slut" for the same reasons a man is called a "player"?	1
 131880	211318	211319	What can I do to stop snoring in my sleep?	How do I stop snoring during sleep?	1
 131880	211318	211319	What can I do to stop snoring in my sleep?	How do I stop snoring during sleep?	1
-131998	211480	211481	Should I be embarrassed by my lack of real relationships due to my focus on career, if one day a girl would ask me about my past?	Nobody seems to care about my Github, they°Øre just put off by my lack of a CS degree. What should I do?	0
+131998	211480	211481	Should I be embarrassed by my lack of real relationships due to my focus on career, if one day a girl would ask me about my past?	Nobody seems to care about my Github, they‚Äôre just put off by my lack of a CS degree. What should I do?	0
 132008	211495	72302	What is the ideal time and number of hours one should sleep?	How much time for sleep does one need in a day?	1
 132008	211495	72302	What is the ideal time and number of hours one should sleep?	How much time for sleep does one need in a day?	1
 132145	211690	211691	Do more people die from deficiencies in state health service or from the effects of not being able to afford private care?	Why African people hate President Barack Hussein Obama of USA?	0
@@ -803,7 +803,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 134547	215022	215023	I'm training as a data scientist. Now, more than ever, I want to work to save the environment. What are some careers in DS that would accomplish this?	When we have a dream within a dream and all that within another dream, does it affect us psychologically when were awake?	0
 135077	107914	215784	Why do I feel sleepy when I start studying? What can I do?	Why do I always feel sleepy when I start to study biology? What must I do?	1
 135077	107914	215784	Why do I feel sleepy when I start studying? What can I do?	Why do I always feel sleepy when I start to study biology? What must I do?	1
-135124	215852	215853	What are some things that scare us that we shouldn't be scared of?	What do you understand by the term °∞experience°±?	0
+135124	215852	215853	What are some things that scare us that we shouldn't be scared of?	What do you understand by the term ‚Äúexperience‚Äù?	0
 135737	216704	216705	I am 39 years old. Should I do business or go for a second career?	I'm 35 years old. I've been a software developer for 8 years but am still not a manager. Should I be concerned for my career?	0
 135767	216754	216755	Is it good to start career with denodo - data virtualization?	How can I study at home if im attending college from 6am to 6pm as im studying engineering?	0
 135786	216785	216786	WHAT ARE CAREER OPTIONS IF I GO FOR PHD IN COMMERCE OTHER THAN TEACHING?	Can microdosing psychedelics be a social lubricant in the same way as alcohol?	0
@@ -953,7 +953,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 154871	242745	242746	How Can FoxMowingNSW Take Care Of Your Overgrown Lawns And Long Grass For You?	What are good plastic surgeries in Budapest?	0
 154889	35517	242770	How would planned parenthood change in a universal healthcare system?	How can we get the American Democratic and Republican parties to see eye-to-eye with each other?	0
 154925	141964	108034	How are careers in philosophy changing and what's necessary to stay current?	How are careers in astronomy changing and what's necessary to stay current?	0
-154978	242882	242883	Do post-op transgender people worry about hereditary baldness or do the hormone replacements and gender reassignment surgery take care of that?	How long does it take for a transgender woman who is taking female hormones to make her really "feel like a woman°±?	0
+154978	242882	242883	Do post-op transgender people worry about hereditary baldness or do the hormone replacements and gender reassignment surgery take care of that?	How long does it take for a transgender woman who is taking female hormones to make her really "feel like a woman‚Äù?	0
 155031	141964	242953	How are careers in philosophy changing and what's necessary to stay current?	How are careers in biochemistry changing and what's necessary to stay current?	0
 155059	242991	242992	What are some things new employees should know going into their first day at Surgical Care Affiliates?	What are some things new employees should know going into their first day at Intuitive Surgical?	0
 155063	242997	242998	What is the the best career advice you have received?	Who gave you the best career advice you've ever received?	0
@@ -998,7 +998,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 160272	110348	77231	What would happen if all the people in the world didn't need to sleep?	What would the world be like if humans didn't need to sleep?	1
 160272	110348	77231	What would happen if all the people in the world didn't need to sleep?	What would the world be like if humans didn't need to sleep?	1
 160659	250507	250508	I have around 10 years of teaching experience in the field of computer science at the college level. can I switch my career to be a data scientist?	How can I switch to IT field having 5 years of teaching experience?	0
-160801	250706	250707	What do I do if I'm so nervous and scared of getting my first job because of my social anxiety?	I don°Øt have a job due to severe social anxiety and I°Øm almost out of money. What should I do?	0
+160801	250706	250707	What do I do if I'm so nervous and scared of getting my first job because of my social anxiety?	I don‚Äôt have a job due to severe social anxiety and I‚Äôm almost out of money. What should I do?	0
 160877	27034	22019	Why am I always so tired and sleepy?	Why am I always sleepy and how can I avoid it?	1
 160877	27034	22019	Why am I always so tired and sleepy?	Why am I always sleepy and how can I avoid it?	1
 161258	164421	119869	How do you avoid falling asleep in class?	How do I avoid sleeping in class?	1
@@ -1058,7 +1058,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 167178	25714	18819	How can I avoid sleeping in a boring class?	How should I avoid sleeping during lectures?	1
 167178	25714	18819	How can I avoid sleeping in a boring class?	How should I avoid sleeping during lectures?	1
 167277	259363	259364	My background is in banking/finance. I'm a creative person though and am looking to shift careers towards creative-focused companies. How do I do this?	I am an engineering graduate. I do not wish to continue in the IT field anymore. I'm a creative person who loves to maintain cleanliness. What can I do? What are some good upcoming fields?	0
-167351	259470	259471	How do I get career counselling in Agra?	When does an organism°Øs life begin?	0
+167351	259470	259471	How do I get career counselling in Agra?	When does an organism‚Äôs life begin?	0
 168112	260475	260476	Does the Microsoft Program Manager role adequately equip you to pursue a successful career in Product Management?	What's it like to be a program manager at Microsoft?	0
 168113	260477	260478	What are some special cares for a 2-month old Pit Bull?	What are some special cares for a 6 month old Pit Bull?	0
 168176	260569	260570	How can I make my career in embedded system and robotics?	How do I make a career in Embedded Systems?	0
@@ -1285,7 +1285,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 195949	77232	226174	What would life be like if humans didn't need to sleep?	Where would humans be if we didn't need sleep?	1
 196413	41341	297120	How do I live life constructlively and achieve success in career? While suffering with anxiety and obsessive compulsive and disorder?	How can I recover from depression, panic disorder and generalized anxiety disorder with lower chance of relapse?	0
 196692	297446	297447	What should I do to enhance my career in search engine marketing?	Why im so easily bored in school? How can I prevent this from happening?	0
-196826	297626	297627	What do you think of Obama's JAMA paper published on 2016-07-11 and and entitled °∞United States Health Care Reform°±?	What is the state of Australian health care?	0
+196826	297626	297627	What do you think of Obama's JAMA paper published on 2016-07-11 and and entitled ‚ÄúUnited States Health Care Reform‚Äù?	What is the state of Australian health care?	0
 197064	297934	255332	What is the typical career path for someone who becomes a professor in journalism?	What is the typical career path for someone who becomes a professor in history?	0
 197118	297999	298000	Does the quality of bed sheets influence sleep quality?	How can good bed sheets impact the quality of your sleep?	1
 197118	297999	298000	Does the quality of bed sheets influence sleep quality?	How can good bed sheets impact the quality of your sleep?	1
@@ -1311,7 +1311,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 200420	302175	302176	How much has the Affordable Care Act increased average premiums?	If the Affordable Care Act saved money, how come Medicare Advantage premiums are rising?	0
 200489	61109	290279	What's wrong with the US healthcare system?	How did the U.S. Healthcare Industry get so complex? What are the solutions?	0
 200702	150807	302535	What is the best messaging app you use that you feel takes care of your security?	What's the most important message you want to leave your audience with and why should they care?''	0
-200987	302901	302902	D.o.b- 11®C04®C1988 time - 13:47 place- Jodhpur (Rajasthan),India In which career direction should I go to get satisfied?Astrologers plz help	Can I succeed in any state or central government civil service exams? Can someone predict for me?	0
+200987	302901	302902	D.o.b- 11‚Äì04‚Äì1988 time - 13:47 place- Jodhpur (Rajasthan),India In which career direction should I go to get satisfied?Astrologers plz help	Can I succeed in any state or central government civil service exams? Can someone predict for me?	0
 200992	188968	118689	What do you do when you cannot sleep?	What should I do when I cannot sleep?	1
 200992	188968	118689	What do you do when you cannot sleep?	What should I do when I cannot sleep?	1
 201431	72358	303437	What is the best way to get a good night's sleep?	What can I do to have a good night of sleep?	1
@@ -1357,7 +1357,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 205207	308287	308288	Is there a downside to sleeping without a pillow?	What is it like to sleep without a pillow?	1
 205406	308540	308541	How can I take care of my skin?	How do you take care of your skin?	0
 205410	308544	308545	Why is US healthcare considered better if it takes 2 months to get an appointment of a primary care physician?	After what time of working out we will feel improvement?	0
-206064	309378	309379	I am considering career shifting from air traffic control to air transport management, do you have suggestion or plan?	Am I the only one underwhelmed by Pok®¶mon GO?	0
+206064	309378	309379	I am considering career shifting from air traffic control to air transport management, do you have suggestion or plan?	Am I the only one underwhelmed by Pok√©mon GO?	0
 206110	309443	309444	What is Calcareous algae?	What are sugar scrubs? How do sugar scrubs work?	0
 206212	150807	309568	What is the best messaging app you use that you feel takes care of your security?	What mobile apps deliver a useful personalized audio or video feed that allows you to start your day with all the relevant news updates you will care about?	0
 206307	59655	309686	Will data used between 2am -5am be debited from Jio data plan or is it separately taken care of?	Which scheme does Python use internally for its dictionary data type: open addressing or separate chaining?	0
@@ -1406,7 +1406,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 211750	56225	316659	What are the best sites for career counselling?	What's it like to have a career in counseling?	0
 211859	316793	316794	Tennis: Which singles player has served most aces in their career?	Tennis: How common is it for a player to score an ace on their second serve?	0
 212721	206757	154274	Do Hillary Clinton supporters not care about her email controversies, or do they tolerate them and look at the bigger picture?	What do Hillary Clinton's supporters say when confronted with all her lies and scandals?	0
-212856	318019	318020	My birth date is 23®C03-1994 , time 14:13, PLACE NEW DELHI. How will be my career and financial condition according to astrology?	Which city in India has the highest percentage of youth population?	0
+212856	318019	318020	My birth date is 23‚Äì03-1994 , time 14:13, PLACE NEW DELHI. How will be my career and financial condition according to astrology?	Which city in India has the highest percentage of youth population?	0
 213077	318313	318314	Why can't Barack Obama just make ObamaCare free for everyone?	I just came to know, Barack Obama keeps the picture of Hanuman Ji in his pocket. Is it true?	0
 213190	318451	318452	Should I care about people?	Why don't I care about people?	0
 213394	134485	265100	What's the best sound that helps you fall asleep?	What's the best sound to fall asleep to?	1
@@ -1416,8 +1416,8 @@ id	qid1	qid2	question1	question2	is_duplicate
 213607	23672	66382	What are all the job levels in Apple's technical career track?	What are all the job levels in Amazon's technical career track?	0
 214007	319488	319489	Can you sleep in your car whilst travelling New Zealand?	Can you stop off and sleep in your car overnight in New Zealand?	1
 214007	319488	319489	Can you sleep in your car whilst travelling New Zealand?	Can you stop off and sleep in your car overnight in New Zealand?	1
-214051	319542	319543	What happens if you sleep with someone of a different ethnicity while pregnant? Can the baby have the other man°Øs features?	What happens if you sleep with someone of a different race while being pregnant? Will the baby have the other man°Øs features?	1
-214051	319542	319543	What happens if you sleep with someone of a different ethnicity while pregnant? Can the baby have the other man°Øs features?	What happens if you sleep with someone of a different race while being pregnant? Will the baby have the other man°Øs features?	1
+214051	319542	319543	What happens if you sleep with someone of a different ethnicity while pregnant? Can the baby have the other man‚Äôs features?	What happens if you sleep with someone of a different race while being pregnant? Will the baby have the other man‚Äôs features?	1
+214051	319542	319543	What happens if you sleep with someone of a different ethnicity while pregnant? Can the baby have the other man‚Äôs features?	What happens if you sleep with someone of a different race while being pregnant? Will the baby have the other man‚Äôs features?	1
 214086	319583	13696	What are the career options after graduation in electrical engineering?	What are career options in construction domain after graduation in electrical engineering?	0
 214396	319972	193496	How can I go to sleep early and get up early?	How do I go to sleep early?	1
 214396	319972	193496	How can I go to sleep early and get up early?	How do I go to sleep early?	1
@@ -1477,7 +1477,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 223511	331328	331329	I have an average academic record with 6 years of experience in start-up, SMBs & MNCs. Should I consider taking the GMAT for an international career?	Should I go for an MBA after about 6 years of experience in academics and teaching or the Indian Administrative Services since I am very keen on entering administration?	0
 223632	113998	331497	What are some of the career options available after graduating in mechanical engineering?	What are some of the career options for a mechanical engineering graduate after graduation?	0
 223759	331656	331657	Do parents know if their children have no love for them and would they even care in the first place?	Why is Nehru criticized for Indus Water Treaty?	0
-223915	331854	331855	What is the best reply to "Sometimes you just have to distance yourself from people. If they care, they°Øll notice."?	Sometimes when I see people, I wonder which place they come from, as in what is their home town. I would like to have a power wherein I can just look at a person's face and say his birth place. What would you like to know just by looking at a person's fac	0
+223915	331854	331855	What is the best reply to "Sometimes you just have to distance yourself from people. If they care, they‚Äôll notice."?	Sometimes when I see people, I wonder which place they come from, as in what is their home town. I would like to have a power wherein I can just look at a person's face and say his birth place. What would you like to know just by looking at a person's fac	0
 223993	296218	184831	Why do the British care about the Royal Family?	Why has the UK retained the monarchy?	0
 224201	332216	332217	I am 27. I have addiction towards learning linux. But I am a mechanical engineer by profession till now. Is it possible to switch over to career in linux now by starting new?	I am a mechanical engineering student, I want to pursue my career in Linux. How do I proceed?	0
 224214	332234	332235	Why Are people scared of walking under ladders?	Why is walking under ladders considered bad luck?	0
@@ -1553,7 +1553,7 @@ id	qid1	qid2	question1	question2	is_duplicate
 235026	48136	206936	How could degree programs in history prepare students better for careers?	How could degree programs in pharmacy prepare students better for careers?	0
 235408	10686	346117	How does Elon Musk thrive on little sleep?	How many hours does Elon Musk sleep?	1
 235408	10686	346117	How does Elon Musk thrive on little sleep?	How many hours does Elon Musk sleep?	1
-235499	346224	346225	I'm medical student and I°Øm interested in learning piano, drawing and programming. Can I do them without affecting my medical career?	How do I pursue a career in drawing, photography, and writing, as they are my interests and I'm mediocre in these areas?	0
+235499	346224	346225	I'm medical student and I‚Äôm interested in learning piano, drawing and programming. Can I do them without affecting my medical career?	How do I pursue a career in drawing, photography, and writing, as they are my interests and I'm mediocre in these areas?	0
 235603	346354	346355	I have a very bad academic record, but still manage to complete my graduation in computer science. I want a career in investment banking. What should I do?	Is a career in investement banking still possible in greece?	0
 236088	39708	346925	I had nervous breakdown for the past 3 years due to wrong career choices.All treat me with contempt.how can i try again for neet as it was my dream?	I am an entrepreneur trying to be successful for the past 3 years with little or no luck. I am in search of a mentor who can help me. How do I find one to get in touch with?	0
 236094	154441	24290	How do I stop grinding my teeth?	How can you stop grinding your teeth in your sleep?	1
