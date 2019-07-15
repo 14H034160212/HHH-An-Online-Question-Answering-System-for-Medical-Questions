@@ -17,10 +17,10 @@ Average eval_accuracy: 0.76860196666
 Range of change: (-0.00734066666, +0.00567233334)
 
 The detail training parameters:
-  --max_seq_length=128
-  --train_batch_size=32
-  --learning_rate=5e-5
-  --num_train_epochs=2.0
+  --max_seq_length=128 \
+  --train_batch_size=32 \
+  --learning_rate=5e-5 \
+  --num_train_epochs=2.0 \
 
 Here is the code of running the run_classifier.py.
 !python run_classifier.py \
