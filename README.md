@@ -41,3 +41,18 @@ https://github.com/LasseRegin/medical-question-answer-data
 
 ### System architecture
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/system_architecture.png" width="800" />
+
+### Web GUI manager
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/web_gui_manager.png" width="800" />
+
+### Siamese Hierarchical BiLSTM Word Attention Manhattan Distance model
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/Siamese_Hierarchical_BiLSTM_Attention_Manhattan_Distance_model.png" width="800" />
+
+### Disease symptom entity extraction & User intention recognition
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/disease_symptom_entity_extraction_user_intention_recognition.png" width="800" />
+
+### Knowledge graph answer selection
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/knowledge_graph_answer_selection.png" width="800" />
+
+### Question_answer_pair_answer_selection
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/question_answer_pair_answer_selection.png" width="800" />
