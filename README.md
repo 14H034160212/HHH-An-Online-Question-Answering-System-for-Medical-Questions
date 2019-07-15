@@ -56,3 +56,6 @@ https://github.com/LasseRegin/medical-question-answer-data
 
 ### Question_answer_pair_answer_selection
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/question_answer_pair_answer_selection.png" width="800" />
+
+### Acknowledgement
+This research was supported by summer scholarship funding from the Precision Driven Health research partnership.
