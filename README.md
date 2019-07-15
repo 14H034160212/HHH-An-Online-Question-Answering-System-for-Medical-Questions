@@ -8,7 +8,7 @@ Here are some useful reference links.
 https://github.com/liuhuanyong/QASystemOnMedicalKG
 
 ## Google English words pre-train model: GoogleNews-vectors-negative300.bin.gz
-The pre-train model will be used to load the BiLSTM+Attention model and HBDA model.
+The pre-train model will be used to load word embedding before training the BiLSTM+Attention model and HBDA model.
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 
