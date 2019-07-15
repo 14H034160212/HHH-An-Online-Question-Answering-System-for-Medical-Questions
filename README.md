@@ -1,23 +1,40 @@
-# 编写README时常用的写法
+# HBDA-An-Online-Question-Answering-System-for-Medical-Questions
 <br><br>
-# 1级标题
-## 2级标题
-### 3级标题
-#### 4级标题
-**这个是粗体** <br>
-*这个是斜体* <br>
-***这个是粗体加斜体*** <br>
+# Knowledge graph establishment refer the following link
+https://github.com/liuhuanyong/QASystemOnMedicalKG
 
-```
-//代码块
-int a=0;
-a++;
-```
+# BERT
+https://github.com/google-research/bert
 
-|列名1|列名2|
-|:---|:---|
-|列1的内容1|列2的内容1|
-|列1的内容2|列2的内容2|
+# BiLSTM+Attention
+https://zhuanlan.zhihu.com/p/31638132
+
+https://github.com/likejazz/Siamese-LSTM
+
+https://github.com/LuJunru/Sentences_Pair_Similarity_Calculation_Siamese_LSTM
+
+# AttentionLayer is referred from the following link
+https://github.com/uhauha2929/examples/blob/master/Hierarchical%20Attention%20Networks%20.ipynb
+
+# Dataset
+## Medical knowledge dataset collected from the following medical website
+https://www.medicinenet.com/medterms-medical-dictionary/article.htm
+
+https://www.nhsinform.scot/illnesses-and-conditions/a-to-z
+
+## Model train_dev_test dataset are filter out from Quora question pair dataset.
+https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
+
+## Medical question and answer pair dataset is referred from the following link.
+https://github.com/LasseRegin/medical-question-answer-data
+
+
+
+|Model|Average Eval_accuracy by three times|Range of change|
+|:---|:---|:---|
+|BERT baseline model|0.7686|(-0.0073, +0.0057)|
+|HDBA model|**0.8146**|(-0.0082, +0.0098)|
+|Bi-LSTM + Attention model|0.8043|(-0.0103, +0.0062)|
 
 [点击前往谷歌搜索的链接](https://www.google.com.hk/)
 
