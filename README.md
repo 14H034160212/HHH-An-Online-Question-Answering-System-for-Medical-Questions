@@ -29,7 +29,7 @@ https://www.medicinenet.com/medterms-medical-dictionary/article.htm
 
 https://www.nhsinform.scot/illnesses-and-conditions/a-to-z
 
-### Model train_dev_test dataset are filter out from Quora question pair dataset.
+### Model train_dev_test dataset are filter out the medical related questions from Quora question pair dataset.
 https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 
 ### Medical question and answer pair dataset is referred from the following link.
