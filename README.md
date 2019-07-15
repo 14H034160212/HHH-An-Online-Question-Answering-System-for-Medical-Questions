@@ -31,6 +31,7 @@ https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 
 ### Medical question and answer pair dataset is referred from the following link.
 https://github.com/LasseRegin/medical-question-answer-data
+
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
 
 |Model|Average Eval_accuracy by three times|Range of change|
