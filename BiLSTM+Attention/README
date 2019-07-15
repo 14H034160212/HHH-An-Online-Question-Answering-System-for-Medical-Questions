@@ -1,1 +1,5 @@
 This is the BiLSTM + Attention model.
+
+The code is referred from the following link.
+https://github.com/likejazz/Siamese-LSTM
+https://github.com/LuJunru/Sentences_Pair_Similarity_Calculation_Siamese_LSTM
