@@ -1,1 +1,1 @@
-Here are some system diagram and screenshot.
+Here are some system diagrams and screenshots.
