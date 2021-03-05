@@ -75,7 +75,7 @@ Siamese Recurrent Architectures for Learning Sentence Similarity (https://www.aa
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/question_answer_pair_answer_selection.png" width="800" />
 
 ## Paper link
-https://arxiv.org/pdf/2002.03140.pdf
+[HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention](https://arxiv.org/pdf/2002.03140.pdf)
 
 ## Citation
 ```
