@@ -60,7 +60,7 @@ The number distribution of train: dev: test = 6:2:2
 ### Siamese Hierarchical BiLSTM Word Attention Manhattan Distance model
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/Siamese_Hierarchical_BiLSTM_Attention_Manhattan_Distance_model.png" width="800" />
 
-#### Reference papers
+### Reference papers
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
 
 Siamese Recurrent Architectures for Learning Sentence Similarity (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12195)
@@ -88,5 +88,8 @@ https://arxiv.org/pdf/2002.03140.pdf
 }
 ```
 
-### Acknowledgement
+## Acknowledgement
 This research was supported by summer scholarship funding from the Precision Driven Health research partnership.
+
+## Other links
+[MANDY: Towards a Smart Primary Care Chatbot Application] https://www.researchgate.net/publication/320422187_MANDY_Towards_a_Smart_Primary_Care_Chatbot_Application
