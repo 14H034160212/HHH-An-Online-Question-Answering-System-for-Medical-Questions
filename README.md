@@ -92,4 +92,4 @@ https://arxiv.org/pdf/2002.03140.pdf
 This research was supported by summer scholarship funding from the Precision Driven Health research partnership.
 
 ## Other links
-[MANDY: Towards a Smart Primary Care Chatbot Application] https://www.researchgate.net/publication/320422187_MANDY_Towards_a_Smart_Primary_Care_Chatbot_Application
+[MANDY: Towards a Smart Primary Care Chatbot Application] (https://link.springer.com/chapter/10.1007/978-981-10-6989-5_4)
