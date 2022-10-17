@@ -50,7 +50,7 @@ The number distribution of train: dev: test = 6:2:2
 
 Here are the code and data for the Medical Sentence Similarity Calculation Model
 
-#### HBAM code and data
+#### Our HBAM code and data
 [Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBAM
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
