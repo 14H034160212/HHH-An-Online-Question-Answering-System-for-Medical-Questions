@@ -52,25 +52,21 @@ Here are the code and data for the Medical Sentence Similarity Calculation Model
 
 #### HBAM code and data
 [Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBDA
-You can find the dataset from the following link.
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
 #### Bi-LSTM+Attention code and data
 [Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BiLSTM%2BAttention
-You can find the dataset from the following link.
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
 #### MaLSTM code and data
 [Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/MaLSTM
-You can find the dataset from the following link.
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
 #### Finetuning BERT code and data
 [Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning
-You can find the dataset from the following link.
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset
 
