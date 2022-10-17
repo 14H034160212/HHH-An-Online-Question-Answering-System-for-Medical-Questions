@@ -14,7 +14,7 @@ For running the following interactive interfaces, you need to run the above code
 You need to run `GUI.py` and you will see and use the GUI interface. 
 
 ## To run the command line interface
-Step 3: You can also run `chatbot_graph.py` which will allow you to chat in command line interface. 
+You can run `chatbot_graph.py` which will allow you to chat in command line interface. 
 
 ## To run the website
-Step 4: You can also run `server.py` to chat on the website.
+You can run `server.py` to chat on the website.
