@@ -45,7 +45,7 @@ The number distribution of train: dev: test = 6:2:2
 |Model|Average Eval_accuracy by three times|Range of change|
 |:---|:---|:---|
 |BERT baseline model|0.7686|(-0.0073, +0.0057)|
-|HDBA model|**0.8146**|(-0.0082, +0.0098)|
+|HBAM model|**0.8146**|(-0.0082, +0.0098)|
 |Bi-LSTM + Attention model|0.8043|(-0.0103, +0.0062)|
 
 ### The scale of knowledge graph about 700 diseases. For each disease, there exists symptom, accompany_disease, prevent_way, cure_way and totally 6 entities.
