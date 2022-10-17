@@ -79,6 +79,10 @@ You can find the dataset from the following link.
 ### Web GUI manager
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/web_gui_manager.png" width="800" />
 
+Medical Knowledge Graph Establish, GUI and website
+The main code is based on the following link. You need to run the build_medicalgraph.py to establish the knowledge graph before you use it. Then you may run GUI.py to run the GUI interface. You can also run chatbot_graph.py which will allow you to chat in command. You can also run server.py to start the website and chat.
+https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Medical_knowledge_graph_establishment/MedicalKBQA
+
 ### Siamese Hierarchical BiLSTM Word Attention Manhattan Distance model
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/Siamese_Hierarchical_BiLSTM_Attention_Manhattan_Distance_model.png" width="800" />
 
