@@ -37,6 +37,9 @@ https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 ### Medical question and answer pair dataset is referred from the following link.
 https://github.com/LasseRegin/medical-question-answer-data
 
+### Siamese Hierarchical BiLSTM Word Attention Manhattan Distance model
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/Siamese_Hierarchical_BiLSTM_Attention_Manhattan_Distance_model.png" width="800" />
+
 ### Model eval-accuracy comparison 
 The total number of medical related data from Quora dataset is nearly 70000, but we randomly pick the 10000 as the (train/dev/test) dataset.
 
@@ -82,9 +85,6 @@ Here are the code and data for the Medical Sentence Similarity Calculation Model
 Medical Knowledge Graph Establish, GUI and website
 The main code is based on the following link. You need to run the build_medicalgraph.py to establish the knowledge graph before you use it. Then you may run GUI.py to run the GUI interface. You can also run chatbot_graph.py which will allow you to chat in command. You can also run server.py to start the website and chat.
 https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Medical_knowledge_graph_establishment/MedicalKBQA
-
-### Siamese Hierarchical BiLSTM Word Attention Manhattan Distance model
-<img src="./Medical_knowledge_graph_establishment/System_screenshot/Siamese_Hierarchical_BiLSTM_Attention_Manhattan_Distance_model.png" width="800" />
 
 ### Reference papers
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
