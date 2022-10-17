@@ -5,10 +5,16 @@ https://github.com/liuhuanyong/QASystemOnMedicalKG
 
 To run the medical knowledge graph, GUI and website, you can follow the following codes.
 
-Step 1: You need to run the `build_medicalgraph.py` to establish the knowledge graph. 
+##To establish the medical knowledge graph
+You need to run the `build_medicalgraph.py` to establish the knowledge graph. 
 
-Step 2: Then you may run `GUI.py` and you will see and use the GUI interface. 
+For running the following interactive interfaces, you need to run the above code to establish the medical knowledge graph first.
 
+##To run the GUI interface
+You need to run `GUI.py` and you will see and use the GUI interface. 
+
+##To run the command line interface
 Step 3: You can also run `chatbot_graph.py` which will allow you to chat in command line interface. 
 
+##To run the website
 Step 4: You can also run `server.py` to chat on the website.
