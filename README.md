@@ -30,9 +30,6 @@ https://github.com/LasseRegin/medical-question-answer-data
 ## System architecture
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/system_architecture.png" width="800" />
 
-### Web GUI manager
-<img src="./Medical_knowledge_graph_establishment/System_screenshot/web_gui_manager.png" width="800" />
-
 ### Disease symptom entity extraction & User intention recognition
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/disease_symptom_entity_extraction_user_intention_recognition.png" width="800" />
 
@@ -41,6 +38,9 @@ https://github.com/LasseRegin/medical-question-answer-data
 
 ### Question_answer_pair_answer_selection
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/question_answer_pair_answer_selection.png" width="800" />
+
+### Web GUI manager
+<img src="./Medical_knowledge_graph_establishment/System_screenshot/web_gui_manager.png" width="800" />
 
 Medical Knowledge Graph Establish, GUI and website
 The main code is based on the following link. You need to run the build_medicalgraph.py to establish the knowledge graph before you use it. Then you may run GUI.py to run the GUI interface. You can also run chatbot_graph.py which will allow you to chat in command. You can also run server.py to start the website and chat.
@@ -96,7 +96,7 @@ The number distribution of train: dev: test = 6:2:2
 
 [Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset
 
-### Reference papers
+## Reference papers
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
 
 Siamese Recurrent Architectures for Learning Sentence Similarity (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12195)
