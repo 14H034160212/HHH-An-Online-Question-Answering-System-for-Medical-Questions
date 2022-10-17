@@ -1,4 +1,4 @@
-# HBDA-An-Online-Question-Answering-System-for-Medical-Questions
+# HHH-An-Online-Question-Answering-System-for-Medical-Questions
 ## System description
 The system can be divided into two parts. The first part is the knowledge graph question answering and the second part is if the 
 knowledge graph cannot find the answer of the user inputted question, the second part will help to retrieve the top k most related answers by computing the medical question similarity from a medical question answer pair dataset.
@@ -8,7 +8,7 @@ Here are some useful reference links.
 https://github.com/liuhuanyong/QASystemOnMedicalKG
 
 ## Google English words pre-train model: GoogleNews-vectors-negative300.bin.gz
-The pre-train model will be used to load word embedding before training the BiLSTM+Attention model and HBDA model.
+The pre-train model will be used to load word embedding before training the BiLSTM+Attention model and HBAM model.
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 
