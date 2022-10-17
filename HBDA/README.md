@@ -22,7 +22,7 @@ The main innovation is to use the Siamese_LSTM + word attention + Manhattan dist
 compare to the normal Siamese_LSTM + normal attention + Manhattan distance.
 
 The main reason that we need to model is to retrieve the top k answer from the medical question answer pair dataset
-according to the medical semantic similarity model (HBDA).
+according to the medical semantic similarity model (HBAM).
 
 
 The AttentionLayer is referred from the following link.
