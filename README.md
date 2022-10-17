@@ -50,21 +50,25 @@ The number distribution of train: dev: test = 6:2:2
 
 Here are the code and data for the Medical Sentence Similarity Calculation Model
 
-[HBAM] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBDA
+#### HBAM code and data
+[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBDA
 You can find the dataset from the following link.
-[Training set for HBAM] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
+[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
-[Bi-LSTM+Attention] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BiLSTM%2BAttention
+#### Bi-LSTM+Attention code and data
+[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BiLSTM%2BAttention
 You can find the dataset from the following link.
-[Training set for Bi-LSTM+Attention] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
+[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
-[MaLSTM] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/MaLSTM
+#### MaLSTM code and data
+[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/MaLSTM
 You can find the dataset from the following link.
-[Training set for MaLSTM] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
+[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
 
-[Finetuning BERT] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning
+#### Finetuning BERT code and data
+[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning
 You can find the dataset from the following link.
-[Training set for BERT] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset
+[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset
 
 ### The scale of knowledge graph about 700 diseases. For each disease, there exists symptom, accompany_disease, prevent_way, cure_way and totally 6 entities.
 <img src="./Medical_knowledge_graph_establishment/System_screenshot/Figure_3.png" width="800" />
