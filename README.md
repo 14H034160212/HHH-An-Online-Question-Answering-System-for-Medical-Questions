@@ -12,7 +12,7 @@ The pre-train model will be used to load word embedding before training the BiLS
 
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 
-## Dataset
+## Datasets
 ### Medical knowledge dataset collected from the following medical website
 https://www.medicinenet.com/medterms-medical-dictionary/article.htm
 
