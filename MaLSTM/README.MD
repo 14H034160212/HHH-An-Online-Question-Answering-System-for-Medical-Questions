@@ -1,4 +1,4 @@
-This is the folder of MalLSTM referred from 
+This is the folder of MaLSTM referred from 
 
 [Code] https://github.com/likejazz/Siamese-LSTM
 
