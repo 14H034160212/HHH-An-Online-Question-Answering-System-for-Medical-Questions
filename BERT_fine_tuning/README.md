@@ -39,3 +39,7 @@ Here is the code of running the run_classifier.py.
   --num_train_epochs=2.0 \
   --output_dir=output 
 ```
+
+Training script is referred from [Sentence (and sentence-pair) classification tasks](https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks)
+
+Test script is referred from [Prediction from classifier](https://github.com/google-research/bert#prediction-from-classifier)
