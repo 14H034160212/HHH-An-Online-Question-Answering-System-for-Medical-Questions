@@ -76,25 +76,13 @@ The number distribution of train: dev: test = 6:2:2
 |Bi-LSTM + Attention model|0.8043|(-0.0103, +0.0062)|
 
 ## Code and data for the Medical Sentence Similarity Calculation Model
-#### Our HBAM code and data
-[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBAM
+#### Our HBAM code and data [Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/HBAM) [Data](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset)
 
-[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
+#### Bi-LSTM+Attention code and data [Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BiLSTM%2BAttention) [Data](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset)
 
-#### Bi-LSTM+Attention code and data
-[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BiLSTM%2BAttention
+#### MaLSTM code and data [Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/MaLSTM) [Data]( https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset)
 
-[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
-
-#### MaLSTM code and data
-[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/MaLSTM
-
-[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset
-
-#### Finetuning BERT code and data
-[Code] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning
-
-[Data] https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset
+#### Finetuning BERT code and data [Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning) [Data](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset)
 
 ## Reference papers
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
