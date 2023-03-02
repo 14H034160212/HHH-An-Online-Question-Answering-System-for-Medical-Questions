@@ -51,8 +51,6 @@ https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medi
 https://github.com/google-research/bert
 
 ### BiLSTM+Attention
-https://zhuanlan.zhihu.com/p/31638132
-
 https://github.com/likejazz/Siamese-LSTM
 
 https://github.com/LuJunru/Sentences_Pair_Similarity_Calculation_Siamese_LSTM
