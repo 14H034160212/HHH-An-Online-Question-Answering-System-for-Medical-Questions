@@ -83,9 +83,9 @@ The number distribution of train: dev: test = 6:2:2
 #### Finetuning BERT [[Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning)] [[Data](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset)]
 
 ## Reference papers
-Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
+[Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174)
 
-Siamese Recurrent Architectures for Learning Sentence Similarity (https://ojs.aaai.org/index.php/AAAI/article/view/10350)
+[Siamese Recurrent Architectures for Learning Sentence Similarity](https://ojs.aaai.org/index.php/AAAI/article/view/10350)
 
 ## Paper link
 [HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention](https://arxiv.org/pdf/2002.03140.pdf)
