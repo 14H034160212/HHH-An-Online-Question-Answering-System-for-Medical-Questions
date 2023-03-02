@@ -32,8 +32,6 @@ https://github.com/uhauha2929/examples/blob/master/Hierarchical%20Attention%20Ne
 
 The Siamese_LSTM network and Manhattan distance are referred from the following links.
 
-https://zhuanlan.zhihu.com/p/31638132
-
 https://github.com/likejazz/Siamese-LSTM
 
 https://github.com/LuJunru/Sentences_Pair_Similarity_Calculation_Siamese_LSTM
