@@ -85,7 +85,7 @@ The number distribution of train: dev: test = 6:2:2
 ## Reference papers
 Hierarchical attention networks for document classification (https://www.aclweb.org/anthology/N16-1174)
 
-Siamese Recurrent Architectures for Learning Sentence Similarity (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12195)
+Siamese Recurrent Architectures for Learning Sentence Similarity (https://ojs.aaai.org/index.php/AAAI/article/view/10350)
 
 ## Paper link
 [HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention](https://arxiv.org/pdf/2002.03140.pdf)
