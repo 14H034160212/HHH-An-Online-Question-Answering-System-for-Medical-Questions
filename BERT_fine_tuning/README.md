@@ -45,8 +45,12 @@ Training script is referred from [Sentence (and sentence-pair) classification ta
 Test script is referred from [Prediction from classifier](https://github.com/google-research/bert#prediction-from-classifier)
 
 
-## Installed Package Version
-Python 3.6
-
-Tensorflow 1.15.0: `python3.7 -m pip install tensorflow-gpu==1.15.0`
-
+## Installation
+~~~bash
+conda create -n hhh python=3.6
+conda activate hhh
+git clone https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions.git
+cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
+cd BERT_fine_tuning
+pip install -r requirements.txt
+~~~
