@@ -47,5 +47,6 @@ Test script is referred from [Prediction from classifier](https://github.com/goo
 
 ## Installed Package Version
 Python 3.6
+
 Tensorflow 1.15.0: `python3.7 -m pip install tensorflow-gpu==1.15.0`
 
