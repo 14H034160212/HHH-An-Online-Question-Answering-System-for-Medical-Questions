@@ -1,6 +1,6 @@
 The selected pre-train model is `uncased_L-12_H-768_A-12`
 
-The running platform is Colab and you can run it on other linux system.
+The running platform is Colab and you can run it on other Linux system.
 
 The total number of data = `10000`
 
