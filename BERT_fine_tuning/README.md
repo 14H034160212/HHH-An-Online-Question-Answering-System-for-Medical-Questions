@@ -24,7 +24,7 @@ The detail training parameters:
 
 Here is the code of running the run_classifier.py which includes training and evaluation.
 ```
-!python run_classifier.py \
+python run_classifier.py \
   --task_name=quora \
   --do_train=True \
   --do_eval=True \
