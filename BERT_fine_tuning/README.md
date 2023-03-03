@@ -1,22 +1,22 @@
-The selected pre-train model is uncased_L-12_H-768_A-12
+The selected pre-train model is `uncased_L-12_H-768_A-12`
 
-The running platform is Colab.
+The running platform is Colab and you can run it on other linux system.
 
-The total number of data = 10000
+The total number of data = `10000`
 
-The number distribution of Train: dev: test = 6:2:2
+The number distribution of Train: dev: test = `6:2:2`
 
-First experiment result eval_accuracy: 0.7702703
+First experiment result eval_accuracy: `0.7702703`
 
-Second experiment result eval_accuracy: 0.7612613
+Second experiment result eval_accuracy: `0.7612613`
 
-Third experiment result eval_accuracy: 0.7742743
+Third experiment result eval_accuracy: `0.7742743`
 
-Average eval_accuracy by three times experiments: 0.76860196666
+Average eval_accuracy by three times experiments: `0.76860196666`
 
-Range of change: (-0.00734066666, +0.00567233334)
+Range of change: `(-0.00734066666, +0.00567233334)`
 
-Here is the code of running the run_classifier.py with detail training parameters which includes training and evaluation.
+Here is the code of running the `run_classifier.py` with detail training parameters which includes training and evaluation.
 ```
 python run_classifier.py \
   --task_name=quora \
