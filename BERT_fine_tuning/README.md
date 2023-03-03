@@ -43,3 +43,9 @@ Here is the code of running the run_classifier.py.
 Training script is referred from [Sentence (and sentence-pair) classification tasks](https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks)
 
 Test script is referred from [Prediction from classifier](https://github.com/google-research/bert#prediction-from-classifier)
+
+
+## Installed Package Version
+Python 3.6
+Tensorflow 1.15.0: `python3.7 -m pip install tensorflow-gpu==1.15.0`
+
