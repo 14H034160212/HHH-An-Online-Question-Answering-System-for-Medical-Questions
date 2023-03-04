@@ -107,7 +107,7 @@ def make_w2v_embeddings(flag, word2vec, df, embedding_dim):  # 将词转化为�
     for index in vocabs:
         vocab_word = vocabs[index]
         if vocab_word in word2vec:
-            embeddings[index] = word2vec[vocab_word]
+            embeddings[vocab_word] = word2vec[vocab_word]
     del word2vec
 
     return df, embeddings
