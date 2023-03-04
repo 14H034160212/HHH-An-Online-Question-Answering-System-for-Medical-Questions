@@ -18,7 +18,7 @@ from util import split_and_zero_padding
 from util import ManDist
 
 # File paths
-TRAIN_CSV = './data/train.csv'
+TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
 
 # Load training set
 train_df = pd.read_csv(TRAIN_CSV,encoding = 'gb18030')
@@ -120,7 +120,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Validation'], loc='upper right')
 
 plt.tight_layout(h_pad=1.0)
-plt.savefig('./data/history-graph.png')
+plt.savefig('./history-graph.png')
 
 print(str(malstm_trained.history['val_acc'][-1])[:6] +
       "(max: " + str(max(malstm_trained.history['val_acc']))[:6] + ")")
