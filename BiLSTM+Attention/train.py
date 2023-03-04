@@ -169,8 +169,8 @@ if __name__ == '__main__':
     import matplotlib.pyplot as plt
 
     plt.subplot(211)
-    plt.plot(malstm_trained.history['acc'])
-    plt.plot(malstm_trained.history['val_acc'])
+    plt.plot(malstm_trained.history['accuracy'])
+    plt.plot(malstm_trained.history['val_accuracy'])
     plt.title('Model Accuracy')
     plt.ylabel('Accuracy')
     plt.xlabel('Epoch')
@@ -189,6 +189,6 @@ if __name__ == '__main__':
     plt.savefig('./history-graph.png')
 
     model.save(savepath)
-    print(str(malstm_trained.history['val_acc'][-1])[:6] +
-          "(max: " + str(max(malstm_trained.history['val_acc']))[:6] + ")")
+    print(str(malstm_trained.history['val_accuracy'][-1])[:6] +
+          "(max: " + str(max(malstm_trained.history['val_accuracy']))[:6] + ")")
     print("Done.")
