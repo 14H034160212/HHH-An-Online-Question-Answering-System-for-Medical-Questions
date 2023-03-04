@@ -50,3 +50,9 @@ def shared_model(_input):
 ## Installation
 
 You need to download the `GoogleNews-vectors-negative300.bin.gz` from [this link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing).
+
+## Running
+
+`python train.py`
+
+You can type `en` and then type `yes` to load the word2vec embedding.
