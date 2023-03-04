@@ -4,7 +4,7 @@ The running platform is Colab and you can run it on other Linux system.
 
 The total number of data = `10000`
 
-The number distribution of Train: dev: test = `6:2:2`
+The number distribution of `Train: dev: test = 6:2:2`
 
 First experiment result eval_accuracy: `0.7702703`
 
