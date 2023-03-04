@@ -70,6 +70,13 @@ Download the `labeledTrainData.tsv` from the following link.
 
 https://drive.google.com/file/d/1RAMaGIKYDIBSxocDdcFO7mKet5_RI8WS/view?usp=share_link
 
+Download punkt using the following way.
+
+```
+>>> import nltk
+>>> nltk.download('punkt')
+```
+
 ## Running
 
 `python train.py`
