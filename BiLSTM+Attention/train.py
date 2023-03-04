@@ -37,7 +37,7 @@ if s == 'cn':
 else:
     TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
     flag = 'en'
-    embedding_path = 'GoogleNews-vectors-negative300.bin.gz'
+    embedding_path = '../GoogleNews-vectors-negative300.bin.gz'
     embedding_dim = 300
     max_seq_length = 10
     savepath = './en_SiameseLSTM.h5'
