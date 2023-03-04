@@ -55,4 +55,4 @@ cd BiLSTM+Attention
 pip install -r requirements.txt
 ~~~
 
-You need to download the GoogleNews-vectors-negative300.bin.gz from [this link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing).
+You need to download the `GoogleNews-vectors-negative300.bin.gz` from [this link](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing).
