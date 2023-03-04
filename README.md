@@ -88,7 +88,6 @@ conda create -n hhh python=3.6
 conda activate hhh
 git clone https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions.git
 cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
-cd BERT_fine_tuning
 pip install -r requirements.txt
 ~~~
 
