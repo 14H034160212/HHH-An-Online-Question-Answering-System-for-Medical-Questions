@@ -63,9 +63,9 @@ https://github.com/uhauha2929/examples/blob/master/Hierarchical%20Attention%20Ne
 
 ## Experiment Results
 ### Model eval-accuracy comparison 
-The total number of medical related data from Quora dataset is nearly 70000, but we randomly pick the 10000 as the (train/dev/test) dataset.
+The total number of medical related data from Quora dataset is nearly `70000`, but we randomly pick the `10000` as the (train/dev/test) dataset.
 
-The number distribution of train: dev: test = 6:2:2
+The number distribution of `train: dev: test = 6:2:2`
 
 |Model|Average Eval_accuracy by three times|Range of change|
 |:---|:---|:---|
