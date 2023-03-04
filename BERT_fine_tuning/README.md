@@ -37,14 +37,3 @@ python run_classifier.py \
 Training script is referred from [Sentence (and sentence-pair) classification tasks](https://github.com/google-research/bert#sentence-and-sentence-pair-classification-tasks)
 
 Test script is referred from [Prediction from classifier](https://github.com/google-research/bert#prediction-from-classifier)
-
-
-## Installation
-~~~bash
-conda create -n hhh python=3.6
-conda activate hhh
-git clone https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions.git
-cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
-cd BERT_fine_tuning
-pip install -r requirements.txt
-~~~
