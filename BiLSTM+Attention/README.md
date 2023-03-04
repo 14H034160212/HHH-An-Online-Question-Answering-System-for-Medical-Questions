@@ -1,6 +1,6 @@
 This is the BiLSTM + Attention model.
 
-The training platform is Colab.
+The training platform is Colab or a Linux system.
 
 The total number of data = `10000`
 
