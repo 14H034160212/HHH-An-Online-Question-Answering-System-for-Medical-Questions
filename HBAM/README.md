@@ -64,3 +64,12 @@ class AttentionLayer(Layer):
     def compute_output_shape(self, input_shape):
         return input_shape[0], input_shape[2]
 ```
+
+## Installation
+Download the `labeledTrainData.tsv` from the following link.
+
+https://drive.google.com/file/d/1RAMaGIKYDIBSxocDdcFO7mKet5_RI8WS/view?usp=share_link
+
+## Running
+
+`python train.py`
