@@ -4,7 +4,7 @@ The training platform is Colab or a Linux system.
 
 The total number of data = `10000`
 
-The number distribution of Train: test = `8:2`
+The number distribution of `Train: test = 8:2`
 
 Epoch: `9`
 
