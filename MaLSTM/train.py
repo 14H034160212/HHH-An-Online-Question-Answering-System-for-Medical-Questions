@@ -18,7 +18,7 @@ from util import split_and_zero_padding
 from util import ManDist
 
 # File paths
-TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
+TRAIN_CSV = '/root/HHH-An-Online-Question-Answering-System-for-Medical-Questions/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
 
 # Load training set
 train_df = pd.read_csv(TRAIN_CSV,encoding = 'gb18030')
@@ -99,7 +99,7 @@ training_end_time = time()
 print("Training time finished.\n%d epochs in %12.2f" % (n_epoch,
                                                         training_end_time - training_start_time))
 
-model.save('./data/SiameseLSTM.h5')
+model.save('./SiameseLSTM.h5')
 
 # Plot accuracy
 plt.subplot(211)
