@@ -2,15 +2,15 @@ This is the BiLSTM + Attention model.
 
 The training platform is Colab.
 
-The total number of data = 10000
+The total number of data = `10000`
 
-The number distribution of Train: test = 8:2
+The number distribution of Train: test = `8:2`
 
-with dropout and Epoch: 9
+with dropout and Epoch: `9`
 
-Average eval_accuracy by three times experiments: 0.80433333333
+Average eval_accuracy by three times experiments: `0.80433333333`
 
-Range of change: (-0.01033333333, +0.00616666667)
+Range of change: `(-0.01033333333, +0.00616666667)`
 
 The code is referred from the following link.
 
@@ -47,3 +47,10 @@ def shared_model(_input):
 
     return sent_representation
 ```
+## Installation
+~~~bash
+conda activate hhh
+cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
+cd BiLSTM+Attention
+pip install -r requirements.txt
+~~~
