@@ -35,12 +35,12 @@ if s == 'cn':
     max_seq_length = 20
     savepath = './data/cn_SiameseLSTM.h5'
 else:
-    TRAIN_CSV = './data/train.csv'
+    TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
     flag = 'en'
     embedding_path = 'GoogleNews-vectors-negative300.bin.gz'
     embedding_dim = 300
     max_seq_length = 10
-    savepath = './data/en_SiameseLSTM.h5'
+    savepath = './en_SiameseLSTM.h5'
 
 # 是否启用预训练的词向量，默认使用随机初始化的词向量
 o = input("type yes or no for choosing pre-trained w2v or not:")
@@ -186,7 +186,7 @@ if __name__ == '__main__':
     plt.legend(['Train', 'Validation'], loc='upper right')
 
     plt.tight_layout(h_pad=1.0)
-    plt.savefig('./data/history-graph.png')
+    plt.savefig('./history-graph.png')
 
     model.save(savepath)
     print(str(malstm_trained.history['val_acc'][-1])[:6] +
