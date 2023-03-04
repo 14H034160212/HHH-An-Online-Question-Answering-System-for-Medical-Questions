@@ -82,6 +82,16 @@ The number distribution of train: dev: test = 6:2:2
 
 #### Finetuning BERT [[Code](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/BERT_fine_tuning)] [[Data](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/master/Data/Model_train_dev_test_dataset/BERT_train_dev_test_dataset)]
 
+## Installation
+~~~bash
+conda create -n hhh python=3.6
+conda activate hhh
+git clone https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions.git
+cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
+cd BERT_fine_tuning
+pip install -r requirements.txt
+~~~
+
 ## Reference papers
 [Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174)
 
