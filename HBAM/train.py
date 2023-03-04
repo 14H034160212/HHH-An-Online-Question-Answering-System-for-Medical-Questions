@@ -29,12 +29,12 @@ from AttentionLayer import AttentionLayer
 
 # ------------------预加载------------------ #
 
-TRAIN_CSV = './data/train.csv'
+TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
 flag = 'en'
-embedding_path = 'GoogleNews-vectors-negative300.bin.gz'
+embedding_path = '../GoogleNews-vectors-negative300.bin.gz'
 embedding_dim = 300
 max_seq_length = 10
-savepath = './data/en_SiameseLSTM.h5'
+savepath = './en_SiameseLSTM.h5'
 
 # 加载词向量
 print("Loading word2vec model(it may takes 2-3 mins) ...")
@@ -222,7 +222,7 @@ if __name__ == '__main__':
     plt.legend(['Train', 'Validation'], loc='upper right')
 
     plt.tight_layout(h_pad=1.0)
-    plt.savefig('./data/history-graph.png')
+    plt.savefig('./history-graph.png')
 
     model.save(savepath)
     print(str(malstm_trained.history['val_acc'][-1])[:6] +
