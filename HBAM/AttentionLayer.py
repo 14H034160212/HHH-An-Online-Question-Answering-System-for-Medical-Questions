@@ -21,7 +21,7 @@ MAX_NB_WORDS = 20000
 EMBEDDING_DIM = 100
 VALIDATION_SPLIT = 0.2
 
-data_train = pd.read_csv('labeledTrainData.tsv', sep='\t')
+data_train = pd.read_csv('./HBAM/labeledTrainData.tsv', sep='\t')
 print(data_train.shape)
 
 from nltk import tokenize
