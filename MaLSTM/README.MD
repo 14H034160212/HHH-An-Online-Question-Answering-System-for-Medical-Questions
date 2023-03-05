@@ -9,6 +9,10 @@ Download `corpora/stopwords` using the following way.
 >>> nltk.download('stopwords')
 ```
 
-## Running
+## Training and evaluation
 
 `python train.py`
+
+## Testing on some examples
+
+`python predict.py`
