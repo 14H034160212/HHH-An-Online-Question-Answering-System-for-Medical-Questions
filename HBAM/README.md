@@ -77,6 +77,11 @@ Download punkt using the following way.
 >>> nltk.download('punkt')
 ```
 
-## Running
+## Training and evaluation
 
 `python train.py`
+
+## Testing on some examples
+
+`python predict.py`
+
