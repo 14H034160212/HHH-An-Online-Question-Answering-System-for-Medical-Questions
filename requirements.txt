@@ -1,6 +1,6 @@
 # tensorflow >= 1.15.0   # CPU Version of TensorFlow.
 tensorflow-gpu==1.15.0  # GPU version of TensorFlow.
-gensim
+gensim==3.8.0
 keras==2.3.1
 git+https://www.github.com/keras-team/keras-contrib.git
 pandas
@@ -10,3 +10,4 @@ scipy
 matplotlib
 numpy
 nltk
+h5py==2.10.0
