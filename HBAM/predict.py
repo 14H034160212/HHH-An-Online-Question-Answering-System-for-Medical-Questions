@@ -27,7 +27,7 @@ assert X_test['left'].shape == X_test['right'].shape
 
 # --
 
-model = tf.keras.models.load_model('./MaLSTM/SiameseLSTM.h5', custom_objects={'ManDist': ManDist})
+model = tf.keras.models.load_model('./HBAM/SiameseLSTM.h5', custom_objects={'ManDist': ManDist})
 model.summary()
 
 prediction = model.predict([X_test['left'], X_test['right']])
