@@ -88,3 +88,6 @@ Download punkt using the following way.
 ## Tensorboard Sentence Embedding Visualization (Only implemented in branch `tensorflow2`)
 
 `tensorboard --logdir ./hbam/`
+
+![image](https://user-images.githubusercontent.com/23516191/223430290-0a3d4d5d-2e41-411e-b82e-afd45ce50cb5.png)
+
