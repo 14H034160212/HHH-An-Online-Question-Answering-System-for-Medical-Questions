@@ -16,3 +16,7 @@ Download `corpora/stopwords` using the following way.
 ## Testing on some examples
 
 `python predict.py`
+
+## Tensorboard Sentence Embedding Visualization (Only implemented in branch `tensorflow2`)
+
+`tensorboard --logdir ./MaLSTM/`
