@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ~~~
 
 ## Updates
-[08/03/2023] We rewrite code for `HBAM` and `MaLSTM` and add `tensorboard` sentence embedding visualization using tensorflow 2.0+ under branch [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2).
+[08/03/2023] We rewrite code for `HBAM` and `MaLSTM` using tensorflow 2.0+ and add `tensorboard` sentence embedding visualization under branch [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2).
 
 ## Reference papers
 [Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174)
