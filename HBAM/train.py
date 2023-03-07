@@ -9,19 +9,25 @@
 
 # 基础包
 import tensorflow as tf
+# tf.enable_eager_execution()
 from time import time
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import keras
 from gensim.models import KeyedVectors
-from keras import initializers as initializers, regularizers, constraints
-from keras.models import Model
-from keras.layers import Input, Embedding, LSTM, Dense, Flatten, Activation, RepeatVector, Permute, Lambda, \
+from tensorflow.python.keras import initializers as initializers, regularizers, constraints
+from tensorflow.python.keras.models import Model
+from tensorflow.python.keras.layers import Input, Embedding, LSTM, Dense, Flatten, Activation, RepeatVector, Permute, Lambda, \
     Bidirectional, TimeDistributed, Dropout, Conv1D, GlobalMaxPool1D
-from keras.layers.merge import multiply, concatenate
-import keras.backend as K
+from tensorflow.python.keras.layers.merge import multiply, concatenate
+# import tensorflow.compat.v1.keras.backend as K
+from tensorflow.python.keras import backend as K
 from util import make_w2v_embeddings, split_and_zero_padding, ManDist
 from AttentionLayer import AttentionLayer
+from tensorflow.keras.callbacks import TensorBoard
+import os
+from tensorboard.plugins import projector
+
 
 '''
 本配置文件用于训练孪生网络
@@ -29,12 +35,12 @@ from AttentionLayer import AttentionLayer
 
 # ------------------预加载------------------ #
 
-TRAIN_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
+TRAIN_CSV = '/root/HHH-An-Online-Question-Answering-System-for-Medical-Questions/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/train.csv'
 flag = 'en'
-embedding_path = '../GoogleNews-vectors-negative300.bin.gz'
+embedding_path = '/root/HHH-An-Online-Question-Answering-System-for-Medical-Questions/GoogleNews-vectors-negative300.bin.gz'
 embedding_dim = 300
 max_seq_length = 10
-savepath = './en_SiameseLSTM.h5'
+savepath = '/root/HHH-An-Online-Question-Answering-System-for-Medical-Questions/HBAM/en_SiameseLSTM.h5'
 
 # 加载词向量
 print("Loading word2vec model(it may takes 2-3 mins) ...")
@@ -189,13 +195,86 @@ if __name__ == '__main__':
     similarity = Dense(1, activation='sigmoid')(Dense(2)(Dense(4)(Dense(16)(sen_representation))))
     model = Model(inputs=[left_input, right_input], outputs=[similarity])
 
-    model.compile(loss='mean_squared_error', optimizer=keras.optimizers.Adam(), metrics=['accuracy'])
+    model.compile(loss='mean_squared_error', optimizer=tf.keras.optimizers.Adam(), metrics=['accuracy'])
     model.summary()
 
     training_start_time = time()
+    
+    logdir = "./HBAM/logs"
+    if not os.path.exists(logdir):
+        os.makedirs(logdir)
+    
+    with open(os.path.join(logdir, 'metadata.tsv'), "w") as f:
+        for left in train_df['question1'].tolist():
+            f.write("{}\n".format(left))
+        for right in train_df['question2'].tolist():
+            f.write("{}\n".format(right))
+        
+    tensorboard = TensorBoard(log_dir = logdir,
+                            histogram_freq = 0,
+                            write_graph = True,
+                            write_images = False,
+                            #   embeddings_freq = 1,
+                            update_freq='epoch',
+                            embeddings_layer_names = None,
+                            embeddings_metadata = [X_validation['left'], X_validation['right']])
+    
     malstm_trained = model.fit([X_train['left'], X_train['right']], Y_train,
-                               batch_size=batch_size, epochs=n_epoch,
-                               validation_data=([X_validation['left'], X_validation['right']], Y_validation))
+                            batch_size=batch_size, epochs=n_epoch,
+                            validation_data=([X_validation['left'], X_validation['right']], Y_validation), 
+                            verbose = 1,
+                            callbacks = [tensorboard])
+    
+    
+    
+    # weights from the embedding layer, in our case: model.layers[1]
+    
+
+    # configuration set-up
+    # config = projector.ProjectorConfig()
+    # embedding = config.embeddings.add()
+    # embedding.tensor_name = "embedding/.ATTRIBUTES/VARIABLE_VALUE"
+    # embedding.metadata_path = 'metadata.tsv'
+    # projector.visualize_embeddings(logdir, config)
+    
+    
+    weights = tf.Variable(model.layers[2].get_weights()[0][1:])
+    checkpoint = tf.train.Checkpoint(embedding=weights)
+    checkpoint.save(os.path.join(logdir, "embedding.ckpt"))
+    
+    # Set up config.
+    config = projector.ProjectorConfig()
+    embedding = config.embeddings.add()
+    # The name of the tensor will be suffixed by `/.ATTRIBUTES/VARIABLE_VALUE`.
+    embedding.tensor_name = "embedding/.ATTRIBUTES/VARIABLE_VALUE"
+    embedding.metadata_path = 'metadata.tsv'
+    projector.visualize_embeddings(logdir, config)
+
+    tf.train.Checkpoint(embedding=weights)
+    
+    # Initialize a TensorFlow session
+    # with tf.compat.v1.Session() as sess:
+    #     sess.run(tf.compat.v1.global_variables_initializer())
+
+    #     # Create a TensorFlow summary writer
+    #     summary_writer = tf.compat.v1.summary.FileWriter(logdir)
+
+    #     # Configure the projector
+    #     config = projector.ProjectorConfig()
+    #     embedding = config.embeddings.add()
+    #     embedding.tensor_name = "embedding/.ATTRIBUTES/VARIABLE_VALUE"
+    #     embedding.metadata_path = 'metadata.tsv'
+
+    #     # Save the projector configuration
+    #     projector.visualize_embeddings(summary_writer, config)
+
+    #     # # Write the embeddings to the summary writer
+    #     # summary_writer.add_embedding(weights,metadata=None)
+
+    #     # Close the summary writer
+    #     summary_writer.close()
+    
+
     training_end_time = time()
     print("Training time finished.\n%d epochs in %12.2f" % (n_epoch, training_end_time - training_start_time))
 

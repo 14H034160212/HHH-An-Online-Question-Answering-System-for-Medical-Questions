@@ -7,7 +7,7 @@ from util import split_and_zero_padding
 from util import ManDist
 
 # File paths
-TEST_CSV = '/root/HHH-An-Online-Question-Answering-System-for-Medical-Questions/Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/test-20.csv'
+TEST_CSV = '../Data/Model_train_dev_test_dataset/Other_model_train_dev_test_dataset/test-20.csv'
 
 # Load training set
 test_df = pd.read_csv(TEST_CSV)
