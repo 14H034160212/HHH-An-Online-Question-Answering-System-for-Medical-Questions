@@ -85,7 +85,7 @@ Download punkt using the following way.
 
 `python predict.py`
 
-## Tensorboard Sentence Embedding Visualization (Only implemented in branch [`tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2))
+## Tensorboard Sentence Embedding Visualization (Only implemented in branch [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2))
 
 `tensorboard --logdir ./hbam/`
 
