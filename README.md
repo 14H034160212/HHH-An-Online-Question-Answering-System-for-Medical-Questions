@@ -91,6 +91,8 @@ cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
 pip install -r requirements.txt
 ~~~
 
+For tensorflow 2.0 version you can switch the branch to `tensorflow2` to run the code for `HBAM` and `MaLSTM`.
+
 ## Reference papers
 [Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174)
 
