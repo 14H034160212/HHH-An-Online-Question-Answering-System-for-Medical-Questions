@@ -91,7 +91,8 @@ cd HHH-An-Online-Question-Answering-System-for-Medical-Questions
 pip install -r requirements.txt
 ~~~
 
-For tensorflow 2.0 version you can switch the branch to [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2) to run the code for `HBAM` and `MaLSTM`. We also add `tensorboard` sentence embedding visualization in branch [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2).
+#### Updates
+[08/03/2023] We rewrite code for `HBAM` and `MaLSTM` and add `tensorboard` sentence embedding visualization in tensorflow 2.0 version under branch [`origin/tensorflow2`](https://github.com/14H034160212/HHH-An-Online-Question-Answering-System-for-Medical-Questions/tree/tensorflow2).
 
 ## Reference papers
 [Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174)
