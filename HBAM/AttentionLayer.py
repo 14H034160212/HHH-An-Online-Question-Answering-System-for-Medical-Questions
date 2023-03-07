@@ -27,10 +27,17 @@ import pandas as pd
 # data_train = pd.read_csv('./HBAM/labeledTrainData.tsv', sep='\t')
 # print(data_train.shape)
 
+<<<<<<< HEAD
 # from nltk import tokenize
 # from tensorflow.python.keras.preprocessing.text import Tokenizer, text_to_word_sequence
 # from tensorflow.python.keras.preprocessing.sequence import pad_sequences
 # from tensorflow.python.keras.utils.np_utils import to_categorical
+=======
+from nltk import tokenize
+from keras.preprocessing.text import Tokenizer, text_to_word_sequence
+from keras.preprocessing.sequence import pad_sequences
+from keras.utils.np_utils import to_categorical
+>>>>>>> master
 
 # reviews = []
 # labels = []
