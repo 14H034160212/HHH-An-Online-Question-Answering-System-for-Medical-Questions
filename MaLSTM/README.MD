@@ -19,4 +19,6 @@ Download `corpora/stopwords` using the following way.
 
 ## Tensorboard Sentence Embedding Visualization (Only implemented in branch `tensorflow2`)
 
-`tensorboard --logdir ./MaLSTM/`
+`tensorboard --logdir ./malstm/`
+
+![image](https://user-images.githubusercontent.com/23516191/223430710-36733d92-ec62-4c62-97b5-3bfd5d80667f.png)
