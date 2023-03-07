@@ -217,7 +217,7 @@ if __name__ == '__main__':
                             #   embeddings_freq = 1,
                             update_freq='epoch',
                             embeddings_layer_names = None,
-                            embeddings_metadata = [X_validation['left'], X_validation['right']])
+                            embeddings_data = [X_validation['left'], X_validation['right']])
     
     malstm_trained = model.fit([X_train['left'], X_train['right']], Y_train,
                             batch_size=batch_size, epochs=n_epoch,
